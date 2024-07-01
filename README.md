@@ -4,7 +4,7 @@
 
 
 ## **How to use**
-Install customtkinter
-Type in your terminal 
-``` pip install customtkinter ```
+Install customtkinter  
+Type in your terminal  
+``` pip install customtkinter ```  
 Open the main.py file in your editor and run.
